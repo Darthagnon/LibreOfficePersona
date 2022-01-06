@@ -7,7 +7,7 @@ Replace default (rubbish) Personas included with LibreOffice @
 
 ## Known bugs
 - These custom personas will be replaced with the defaults every time you update LibreOffice
-- **Because LibreOffice does not support custom themes properly** (I have opened multiple bug reports, see [Readme.txt](Readme.txt):
+- **Because LibreOffice does not support custom themes properly** (I have opened multiple bug reports, see [Readme.txt](Readme.txt)):
 	- You will need to rename the files from this repository according to the theme files already present.
 	- You cannot use all the included custom themes simultaneously.
 	- You must destructively replace the original themes.
