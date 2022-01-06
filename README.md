@@ -15,9 +15,11 @@ Replace default (rubbish) Personas included with LibreOffice @
 
 ## Office 2013 theme for LibreOffice
 by [charliecnr](https://www.deviantart.com/charliecnr) @ DeviantArt, 6 Feb 2015
-***Mirrored here to ensure continued access and to put all the M$ Office customisations for LibreOffice in one place***
+***Mirrored here to ensure continued access (avoiding DeviantArt account wall) and to put all the M$ Office customisations for LibreOffice in one place***
 
-![screenshot](M$ Office 2013 icon theme from DeviantArt/Office 2013 Icons Theme for LibreOffice.png) 
+<!-- ![screenshot](Office 2013 icon theme DeviantArt/screenshot.png){:height="644px" width="614px"} -->
+
+<img src="Office 2013 icon theme DeviantArt/screenshot.png" width="614" height="644" />
 
 This is an icons theme to make LibreOffice look like Office 2013.
 Compatible with LibreOffice versions 4 to 7.
@@ -34,7 +36,7 @@ Compatible with LibreOffice versions 4 to 7.
 
 ### HOW TO INSTALL
 
-For LibreOffice 6 and above, download and install the theme as an extension : [https://onedrive.live.com/?cid=0716985c019a0ab8&id=716985C019A0AB8%21676&authkey=!ACQ9_IxlGddfksk](https://onedrive.live.com/?cid=0716985c019a0ab8&id=716985C019A0AB8%21676&authkey=!ACQ9_IxlGddfksk) with Tools > Extension manager.
+For LibreOffice 6 and above, download and install the theme as an extension : [https://1drv.ms/u/s!ArgKmgFcmBYHhSQkPfyMZRnXX5LJ](https://1drv.ms/u/s!ArgKmgFcmBYHhSQkPfyMZRnXX5LJ) with Tools > Extension manager.
 The theme packaged as an extension is the easiest way to install (no admin rights needed), only in LibreOffice 6 and above.
 
 Previous versions of LibreOffice don't allow themes as extension, you have to follow those steps :
