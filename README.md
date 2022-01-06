@@ -15,6 +15,7 @@ Replace default (rubbish) Personas included with LibreOffice @
 
 ## [Office 2013 theme for LibreOffice](https://www.deviantart.com/charliecnr/art/Office-2013-theme-for-LibreOffice-512127527)
 by [charliecnr](https://www.deviantart.com/charliecnr) @ DeviantArt, 6 Feb 2015
+
 ***Mirrored here to ensure continued access (avoiding DeviantArt account wall) and to put all the M$ Office customisations for LibreOffice in one place***
 
 <!-- ![screenshot](Office 2013 icon theme DeviantArt/screenshot.png){:height="644px" width="614px"} -->
@@ -22,6 +23,7 @@ by [charliecnr](https://www.deviantart.com/charliecnr) @ DeviantArt, 6 Feb 2015
 <img src="Office 2013 icon theme DeviantArt/screenshot.png" alt="screenshot" width="614" height="644" align="middle"/>
 
 This is an icons theme to make LibreOffice look like Office 2013.
+
 Compatible with LibreOffice versions 4 to 7.
 
 - 06-febr-2015  : first release
@@ -36,20 +38,17 @@ Compatible with LibreOffice versions 4 to 7.
 
 ### HOW TO INSTALL
 
-For LibreOffice 6 and above, download and install the theme as an extension : [https://1drv.ms/u/s!ArgKmgFcmBYHhSQkPfyMZRnXX5LJ](https://1drv.ms/u/s!ArgKmgFcmBYHhSQkPfyMZRnXX5LJ) with Tools > Extension manager.
+For LibreOffice 6 and above, download and install the theme as an extension : [https://1drv.ms/u/s!ArgKmgFcmBYHhSQkPfyMZRnXX5LJ](https://1drv.ms/u/s!ArgKmgFcmBYHhSQkPfyMZRnXX5LJ) with `Tools` > `Extension manager`.
+
 The theme packaged as an extension is the easiest way to install (no admin rights needed), only in LibreOffice 6 and above.
 
 Previous versions of LibreOffice don't allow themes as extension, you have to follow those steps :
 
-1. Download (button at top right of this page) and rename zip file to images_office2013.zip and copy it to this folder :
+1. Download ([button at top right of this page](Office 2013 icon theme DeviantArt/office_2013_theme_for_libreoffice_by_charliecnr_d8gwo4n.zip)) and rename zip file to images_office2013.zip and copy it to this folder:
+	- Windows:  `C:\Program Files (x86)\LibreOffice 5\share\config\`
+    - Linux:  `/usr/lib/libreoffice/share/config/` and `/usr/share/libreoffice/share/config/` or `/opt/libreoffice<version>/share/config/` (use a symlink)
+    - OS X:  `LibreOffice/Contents/Resources/config/`
 
-
-    Windows:  C:\Program Files (x86)\LibreOffice 5\share\config\
-    Linux:  /usr/lib/libreoffice/share/config/ and /usr/share/libreoffice/share/config/ or /opt/libreoffice<version>/share/config/ (use a symlink)
-
-    OS X:  LibreOffice/Contents/Resources/config/
-
-
- 2. Open LibreOffice, go to Tools > Options > LibreOffice > View and change the icon style to Office2013.
+ 2. Open LibreOffice, go to `Tools` > `Options` > `LibreOffice` > `View` and change the icon style to Office2013.
 
  3. Restart LibreOffice.
