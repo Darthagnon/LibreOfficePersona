@@ -44,7 +44,7 @@ The theme packaged as an extension is the easiest way to install (no admin right
 
 Previous versions of LibreOffice don't allow themes as extension, you have to follow those steps :
 
-1. Download ([button at top right of this page](Office 2013 icon theme DeviantArt/office_2013_theme_for_libreoffice_by_charliecnr_d8gwo4n.zip)) and rename zip file to images_office2013.zip and copy it to this folder:
+1. Download (button at top right of this page) and rename zip file to images_office2013.zip and copy it to this folder:
 	- Windows:  `C:\Program Files (x86)\LibreOffice 5\share\config\`
     - Linux:  `/usr/lib/libreoffice/share/config/` and `/usr/share/libreoffice/share/config/` or `/opt/libreoffice<version>/share/config/` (use a symlink)
     - OS X:  `LibreOffice/Contents/Resources/config/`
