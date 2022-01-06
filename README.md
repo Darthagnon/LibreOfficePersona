@@ -13,13 +13,13 @@ Replace default (rubbish) Personas included with LibreOffice @
 	- You must destructively replace the original themes.
 	- The same theme will apply across all of LibreOffice (e.g. you can't separately colour LibreCalc "Excel-green" and LibreWriter "Word-blue")
 
-## Office 2013 theme for LibreOffice
+## [Office 2013 theme for LibreOffice](https://www.deviantart.com/charliecnr/art/Office-2013-theme-for-LibreOffice-512127527)
 by [charliecnr](https://www.deviantart.com/charliecnr) @ DeviantArt, 6 Feb 2015
 ***Mirrored here to ensure continued access (avoiding DeviantArt account wall) and to put all the M$ Office customisations for LibreOffice in one place***
 
 <!-- ![screenshot](Office 2013 icon theme DeviantArt/screenshot.png){:height="644px" width="614px"} -->
 
-<img src="Office 2013 icon theme DeviantArt/screenshot.png" width="614" height="644" />
+<img src="Office 2013 icon theme DeviantArt/screenshot.png" alt="screenshot" width="614" height="644" align="middle"/>
 
 This is an icons theme to make LibreOffice look like Office 2013.
 Compatible with LibreOffice versions 4 to 7.
